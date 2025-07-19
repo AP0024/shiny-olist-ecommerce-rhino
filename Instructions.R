@@ -51,3 +51,23 @@ renv::snapshot()
 
 ######------ For teammates/deploy:------------
 # renv::restore()
+
+
+
+#git branch
+
+#switch
+# git checkout -b feature-branch-name   # Create & switch
+# # OR
+# git checkout feature-branch-name      # If it already exists
+# git add .
+# git commit -m "Your commit message describing the changes"
+# git push origin feature-branch-name
+# git checkout master
+# git pull origin master
+# git merge feature-branch-name
+# git push origin master
+
+
+
+
